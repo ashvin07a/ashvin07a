@@ -1,4 +1,16 @@
+# 💫 Hi 👋, I'm Ashvin Prajapati
+**A passionate Software Developer || BCA Student**
 
+Email Me 👉 ✉️ **ashvinprajapati748@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** School Addmission Management System
+- 🌱 **I’m currently learning:** JAVA with Springboot & Hibernate
+- 👯 **I’m looking to collaborate on:** 
+- 🤔 **I’m looking for help with:** My Project
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** ashvinprajapati748@gmail.com
+- 😄 **Pronouns:** Ashvin
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashvin-prajapati-b8390234b) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ashvin Prajapati) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashvinprajapati748@gmail.com) 
 
